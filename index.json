@@ -1,22 +1,22 @@
 [
     {
         "description": "A high performance iPhone.",
-        "image": "images/product-item1.jpg",
-        "name": "Iphone 10",
+        "image": "images/product-item6.jpg",
+        "name": "watch",
         "price": 150.99,
         "id": "EF7085B9-47B4-45A0-BFB4-D2AE4DAB2ECF"
     },
     {
         "id": "6C5C8E51-AA2E-4A01-95B5-D8C0A613B2AD",
-        "image": "images/product-item2.jpg",
+        "image": "images/product-item7.jpg",
         "price": 150.99,
-        "name": "Iphone 12",
+        "name": "pink watch",
         "description": "A high performance iPhone."
     },
     {
         "price": 150.99,
-        "image": "images/product-item3.jpg",
-        "name": "Iphone 8",
+        "image": "images/product-item8.jpg",
+        "name": "Heavy watch",
         "id": "FDC4A2B4-806A-4F05-BB6D-C2F44E237C86",
         "description": "A high performance iPhone."
     },
@@ -24,19 +24,19 @@
         "description": "A high performance iPhone.",
         "id": "03E1F5F7-C262-49E3-8132-CFC6BEBB9F79",
         "price": 300.99,
-        "image": "images/product-item3.jpg",
-        "name": "Iphone 9"
+        "image": "images/product-item9.jpg",
+        "name": "spotted watch"
     },
     {
-        "name": "Iphone 13",
+        "name": "black watch",
         "image": "images/product-item4.jpg",
         "price": 440.99,
         "description": "A high performance iPhone.",
         "id": "C8CE241B-A2E2-4EE3-B8A2-98F2CBBFB300"
     },
     {
-        "name": "Iphone 11",
-        "image": "images/product-item5.jpg",
+        "name": "black watch",
+        "image": "images/product-item10.jpg",
         "price": 150.99,
         "description": "A high performance iPhone.",
         "id": "C8CE241B-A2E2-4EE3-B8A2-98F2CBBFB359"
